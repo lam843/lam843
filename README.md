@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🥀Hi there 👋,I'm lamya.<br>🥀I’m currently studying  a Master degree in Artificial <br>Intelligence & Data Analytics<br>🥀interested in AI, ML  and Deep learning
 
 
