@@ -1,3 +1,16 @@
+<p align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=26&pause=1500&color=41B783&background=27384900&vCenter=true&lines=Hi+there%2C+I'm+Lamya+%F0%9F%91%8B)](https://git.io/typing-svg"  />
+</p>
+
+<h3 align="center"  >A passionate frontend developer from Morocco</h3>
+
+
+<p align="center" width="100%">
+<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=yassineAmmani&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineAmmani&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/yassineAmmani/github-readme-stats" />
+
+
+</p>
 #  About Me:
 🥀Hi there 👋,I'm lamya.<br>🥀I’m currently studying  a Master degree in Artificial <br>Intelligence & Data Analytics<br>🥀interested in AI, ML  and Deep learning
 
