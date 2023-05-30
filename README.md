@@ -37,7 +37,7 @@
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
     <video autoplay controls>
-        <source src="https://github.com/lam843/lam843/raw/assets/78732216/55766299-3dcc-44ec-8137-b2981136316c" type="video/mp4">
+      https://github.com/lam843/lam843/assets/78732216/55766299-3dcc-44ec-8137-b2981136316c
     </video>
 </div>
 
