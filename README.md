@@ -37,7 +37,10 @@
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
     <video autoplay controls>
-      https://github.com/lam843/lam843/assets/78732216/55766299-3dcc-44ec-8137-b2981136316c
+     
+
+https://github.com/lam843/lam843/assets/78732216/67532173-dece-4bdb-9676-7d91d0c2b388
+
     </video>
 </div>
 
