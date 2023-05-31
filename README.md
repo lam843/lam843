@@ -36,12 +36,9 @@
 
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-    <video autoplay controls>
-     
-
-https://github.com/lam843/lam843/assets/78732216/67532173-dece-4bdb-9676-7d91d0c2b388
-
-    </video>
+    
+![A](https://github.com/lam843/lam843/assets/78732216/15d24dce-196f-4ec0-9884-8ce66a2245be)
+    
 </div>
 
 
